@@ -1,4 +1,4 @@
-# WORK IN PROGRESS
+**WORK IN PROGRESS**
 
 # Data Science Resources
 My resources (books, websites, authors, etc.) that I´ve been using to study DS.
