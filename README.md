@@ -26,3 +26,5 @@ So... Why not share it ?
 > https://www.sqlite.org/windowfunctions.html
 
 > https://www.aws.training/
+
+> https://www.w3schools.com/
